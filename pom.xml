@@ -11,8 +11,11 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>
-      ge-meeting-calender
+      ge-event-calender
     </module>
+      <module>
+          ge-splitwise
+      </module>
   </modules>
 
   <properties>
